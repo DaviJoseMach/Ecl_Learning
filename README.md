@@ -120,6 +120,49 @@ O repositório está organizado da seguinte forma:
 
 Agradecemos contribuições para este repositório. Se você tiver um tutorial, exercício ou amostra de código que deseja adicionar, envie um pull request.
 
+
+Peço desculpas pelo mal-entendido. Aqui está uma versão revisada com um link no título:
+
+# [Aprenda Java Web com Davi](java_web.md)
+
+Bem-vindo ao repositório "Aprenda Java Web com Davi". Este projeto tem como objetivo fornecer um ponto de partida para aqueles que desejam aprender a desenvolver aplicações web em Java. Aqui, você encontrará recursos e orientações essenciais para iniciar sua jornada no desenvolvimento web usando a linguagem Java.
+
+## Pré-requisitos
+
+- Certifique-se de ter o [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-downloads.html) instalado em seu sistema.
+- Escolha e configure uma IDE (Ambiente de Desenvolvimento Integrado), como [Eclipse](https://www.eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), ou [NetBeans](https://netbeans.apache.org/).
+
+## Frameworks e Tecnologias
+
+Este repositório fornece um guia básico para começar com alguns dos frameworks web mais populares em Java:
+
+- **[Spring Framework](java_web.md#spring-framework):** Abordagem abrangente e modular para o desenvolvimento web em Java.
+- **[JavaServer Faces (JSF)](java_web.md#javaserver-faces-jsf):** Padrão oficial para a construção de interfaces de usuário em aplicações Java.
+- **[Apache Struts](java_web.md#apache-struts):** Framework baseado em MVC para desenvolvimento web.
+
+## Estrutura do Repositório
+
+- **src/:** Contém código-fonte de exemplo para cada framework ou tecnologia abordada.
+- **docs/:** Documentação adicional, tutoriais e links úteis.
+
+## Começando
+
+1. Clone este repositório: `git clone https://github.com/seu-usuario/aprenda-java-web.git`
+2. Escolha um framework no diretório `src/` e explore os exemplos fornecidos.
+3. Consulte a documentação oficial de cada framework para aprofundar seus conhecimentos.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou compartilhar recursos úteis.
+
+## Recursos Adicionais
+
+- [Documentação Oficial do Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
+- [JavaServer Faces (JSF) Documentation](https://docs.oracle.com/javaee/7/javaserver-faces-2-2/vdldocs-facelets/)
+- [Documentação Oficial do Apache Struts](https://struts.apache.org/docs/index.html)
+
+Divirta-se aprendendo Java Web! 🚀
+
 **Contato**
 
 Se você tiver alguma dúvida ou feedback, entre em contato conosco em [email protected]
